@@ -2164,12 +2164,31 @@ table tr, table td {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
   color: #353535; }
 
+.item-hide {
+  display: none; }
+
+.expand {
+  color: #1965B0;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer; }
+
 .item {
   position: relative;
-  padding: 3rem 3rem;
+  padding: 3rem;
   height: 100%;
+  min-height: 430px;
   background: #fff;
-  border-radius: 8px; }
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
 
 .timekeeper {
   float: left;
@@ -2178,8 +2197,10 @@ table tr, table td {
   bottom: 10px; }
 
 .testimonial-audio {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
   border: 0;
-  position: relative; }
+  margin-bottom: -50px; }
   .testimonial-audio p {
     padding: 0px;
     position: relative;
@@ -2196,10 +2217,13 @@ table tr, table td {
 .testimonial {
   font-size: 1.8rem;
   font-family: serif;
-  font-style: italic; }
+  font-style: italic;
+  padding-bottom: 0; }
 
 .testimonial-attribute {
-  font-weight: bold; }
+  font-weight: bold;
+  -ms-flex-item-align: start;
+      align-self: flex-start; }
 
 .testimonial-container {
   background: #040404;
@@ -2485,6 +2509,9 @@ form select {
     width: 90%; } }
 .site-logo {
   max-width: 60rem; }
+
+.testimonial-container {
+  background: #2b2b2b; }
 
 .navbar-left li a {
   color: #fff;
