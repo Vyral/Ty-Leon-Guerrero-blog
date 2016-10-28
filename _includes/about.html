@@ -4,11 +4,11 @@
 	<div class="client-image-container">
 	<img src="{{site.data.settings.images.client_headshot_path }}" alt="{{site.data.settings.client.company}}" class="client-image" />
 	</div><br />
-	<p>{{site.data.settings.client.about_markdown | markdownify }}</p>
+	{{site.data.settings.client.about_markdown | markdownify }}
 	<p>
 		<b>{{ site.data.settings.client.name }}</b><br />
-		{% if site.data.settings.client.license_number != null %}
-		#{{ site.data.settings.client.license_number }}</br>
+		{% if site.data.settings.client.license != null %}
+		{{ site.data.settings.client.license }}</br>
 		{% endif %}
 		{{ site.data.settings.client.brand }}<br />
 		{% if site.data.settings.client.brokerage != null %}
