@@ -32,11 +32,11 @@
 						<br><span>#{{site.data.settings.client.license_number }}
 					{% endif %}
 	        </div>
+					<div class="col-sm-4">
+						<address itemprop="address">{{site.data.settings.client.address}}</address>
+					</div>
 	        <div class="col-sm-4">
 	          <span itemprop="brand">{{site.data.settings.client.brand}}</span>
-	        </div>
-	        <div class="col-sm-4">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
 	        </div>
 	      {% else %}
 	        <div class="col-sm-3">
@@ -61,8 +61,16 @@
 	      <div class="col-sm-4">
 	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
 	      </div>
-	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a></div>
-	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
+	      <div class="col-sm-4">
+					<a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>
+				</div>
+	      <div class="col-sm-4">
+					<a href="{{site.data.settings.client.url}}">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a>
+				{% if site.data.settings.client.url2 != null %}
+					<br>
+					<a href="{{site.data.settings.client.url2}}">{{site.data.settings.client.url2 | remove: "http://" | remove: "https://"}}</a>
+				{% endif %}
+				</div>
 	    </div>
 	    <div class="row">
 	      <div class="twelve columns footer-socials">

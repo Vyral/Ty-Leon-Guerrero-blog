@@ -14,9 +14,14 @@
 		{% if site.data.settings.client.brokerage != null %}
 		{{ site.data.settings.client.brokerage }}<br />
 		{% endif %}
+		{% if site.data.settings.client.address != null %}
 		{{ site.data.settings.client.address }}<br />
+		{% endif %}
 		{{ site.data.settings.client.phone }}<br />
 		<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
 		<a href="http://{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url }}</a><br />
+		{% if site.data.settings.client.url2 != null %}
+		<a href="{{site.data.settings.client.url2}}" target="_blank">{{site.data.settings.client.url2 | remove: "http://" | remove: "https://"}}</a>
+		{% endif %}
 	</p>
 </div>

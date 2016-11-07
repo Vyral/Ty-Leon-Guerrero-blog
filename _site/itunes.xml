@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Team1Realty Real Estate Podcast</title>
-    <link>tylg.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="tylg.com"/>
+    <link>http://tylg.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://tylg.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Team1Realty - your professional East Bay Area Real Estate Agents.</description>
     <language>en</language>
     <managingEditor></managingEditor>
-    <lastBuildDate>2016-11-07 15:18:14 -0600</lastBuildDate>
+    <lastBuildDate>2016-11-07 16:25:12 -0600</lastBuildDate>
     <media:copyright></media:copyright>
-    <media:thumbnail url="tylg.com/img/Leon_podcast.png"/>
+    <media:thumbnail url="http://tylg.com/img/Leon_podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author></itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="tylg.com/img/Leon_podcast.png"/>
+    <itunes:image href="http://tylg.com/img/Leon_podcast.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the East Bay Area Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Team1Realty - your professional East Bay Area Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>What’s Our Market Doing This Fall?</title>
-        <link>tylg.com/what-s-our-market-doing-this-fall.html</link>
+        <link>http://tylg.com/what-s-our-market-doing-this-fall.html</link>
         
           <category>Market Update</category>
         
@@ -43,18 +43,18 @@
 
 The 2016 market has seen quite a bit of change lately. 
 
-In the spring, we started out red-hot with multiple offers on almost every property due to low inventory. We then saw a cooldown during the summer, which confused a lot of sellers. Now in the fall, we’re seeing a stabilization. 
+In the spring, we started out red-hot with multiple offers on almost every property due to low inventory. We then saw a cool down during the summer, which confused a lot of sellers. Now in the fall, we’re seeing a stabilization. 
 
-Some neighborhoods in some areas are still very hot for certain product types. Overall, though, we’re seeing low inventory in our area. The biggest change happening and the biggest concern for sellers is the fact that we’re seeing an increase in days on market. We’re also seeing price reductions and price changes as well. 
+Some neighborhoods in some areas are still very hot for certain product types. Overall, though, we’re seeing low inventory in our area. The biggest change happening and the biggest concern for sellers is the fact that we’re seeing an increase in days on market. We’re seeing price reductions and price changes as well. 
 
 “We’re seeing low inventory and an increase in days on market.”
 
-This means that, depending on what your move up is or where you’re going, now may be a great time to sell. 
+This means that, depending on whether you’d like to move up and where you’re moving, now may be a great time to sell. 
 
 If you have any questions or have a video topic in mind you’d like us to discuss, please feel free to give us a call or send us an email. We look forward to hearing from you! 
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ty+Leon-/Ty+Leon+Guerrero+Fall+2016+Market+Update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="tylg.com" height="72" width="72"/>
+        <media:thumbnail url="http://tylg.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ty+Leon-/Ty+Leon+Guerrero+Fall+2016+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the East Bay Area Area Real Estate Market</itunes:subtitle>
@@ -65,7 +65,7 @@ If you have any questions or have a video topic in mind you’d like us to discu
       
       <item>
         <title>Welcome to My YouTube Channel</title>
-        <link>tylg.com/welcome-to-my-youtube-channel.html</link>
+        <link>http://tylg.com/welcome-to-my-youtube-channel.html</link>
         
           <category>Market Update</category>
         
@@ -83,7 +83,7 @@ If you have any questions or have a video topic in mind you’d like us to discu
 It’s my pleasure to welcome you to my new YouTube channel. Here you’ll find great seller tips, buyer tips, and plenty of market updates. If there’s a specific real estate topic you’d like to know more about, please let us know and we’ll make a video about it. We want to be a great real estate resource for you, so please feel free to take a look around in the meantime. We’ll talk to you soon!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ty+Leon-/Ty+Leon+Guerrero+Welcome+to+my+New+Youtube+Channel.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="tylg.com" height="72" width="72"/>
+        <media:thumbnail url="http://tylg.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ty+Leon-/Ty+Leon+Guerrero+Welcome+to+my+New+Youtube+Channel.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the East Bay Area Area Real Estate Market</itunes:subtitle>

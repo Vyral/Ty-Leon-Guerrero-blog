@@ -19,10 +19,12 @@ client:
   phone: 800-524-7253
   email: TY@TYLG.COM
   url: www.team1realty.com
+  url2: http://wealsobuyhouses.com
   first_CTA_text: Home Evaluation
   first_CTA_URL: http://www.team1realty.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.team1realty.com/search/advanced_search/
+  phone_CTA: true
   VR_form: http://oi.vresp.com?fid=9676bb12bc
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |

@@ -47,12 +47,12 @@
 			@include transform(translateY(0rem))
 
 .navbar-andross .navbar-brand
-	color: $brand
+	color: $light-text
 	padding-top: 20px
 	padding-bottom: 33px
 	font-size: 20px
 	text-transform: uppercase
-	max-width: 80%
+	max-width: 65%
 
 .navbar-nav>li
 	margin-right: 10px
@@ -74,16 +74,23 @@
 		color: $brand-light
 
 .fa-bars
-	color: $brand
+	color: $light-text
 
 .navbar-toggle
 	margin-top: 20px
+
+.phone, .fa-phone
+	color: #fff
 
 .navbar
 	padding-right: 15px
 	padding-left: 15px
 
 @media(max-width: 347px)
+	.navbar-brand
+		display: none
 	.navbar-header
 		a.navbar-brand
 			color: $theme
+			display: none
+			max-width: 0
