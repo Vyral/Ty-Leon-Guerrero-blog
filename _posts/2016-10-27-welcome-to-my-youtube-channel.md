@@ -2,10 +2,7 @@
 layout: post
 title: Welcome to My YouTube Channel
 tags:
-  - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: 'Here you’ll find great seller tips, buyer tips, and plenty of market updates.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Ty+Leon-/Ty+Leon+Guerrero+Welcome+to+my+New+Youtube+Channel.mp4'
 pullquote:
