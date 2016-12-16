@@ -27,6 +27,6 @@ Interest rates will be a big factor as well. If you take a look at the chart, we
 
 {% include pullquote.html %}
 
-Lastly, **availability for mortgage credit will shift** in 2017. According to the next chart, you can see that we are at an all time low of availability for mortgage credit, but there has been a lot of talk about deregulation and new mortgage products coming on the market. Make sure you watch for those.
+Lastly, **availability for mortgage credit will shift** in 2017. According to the next chart, you can see that we are at an all-time low of availability for mortgage credit, but there has been a lot of talk about deregulation and new mortgage products coming on the market. Make sure you watch for those.
 
-Again, no one has a crystal ball. For a free personalized valuation on your property, or for any other real estate needs, please reach out to us. We would be happy help!
+Again, no one has a crystal ball. For a free personalized valuation on your property, or for any other real estate needs, please reach out to us. We would be happy to help!
