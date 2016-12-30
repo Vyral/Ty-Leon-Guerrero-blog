@@ -3,9 +3,6 @@ layout: post
 title: What Will the 2017 Market Look Like?
 tags:
   - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: Here is a quick look at what factors will shift the 2017 real estate market.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Ty+Leon-/Fairfield%2C+CA+Real+Estate+2017+Market+Predictions.mp4'
 pullquote: There has been talk of deregulation and new mortgage products coming on the market.
