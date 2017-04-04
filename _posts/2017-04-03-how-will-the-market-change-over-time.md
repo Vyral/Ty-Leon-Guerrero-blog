@@ -16,6 +16,8 @@ youtube_code: Z1WfhVNVSMg
 
 {% include youtube.html %}
 
+-Saturday April 1, 2017
+
 As you can imagine, our market is moving really fast. We’ve been experiencing a really strong seller’s market since February.&nbsp;
 
 **Most home sellers out there have benefitted from the fact that there really aren’t a lot of homes for buyers to choose from**. If a property shows well and is priced properly, in most neighborhoods, it will receive multiple offers. There is a good chance it may even start a bidding war.
