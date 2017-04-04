@@ -24,6 +24,6 @@ I expect us to see these conditions continue through April and into May. However
 
 {% include pullquote.html %}
 
-Whether you’re thinking about buying, selling, downsizing, moving up, or retiring, give us a call or send us an email. **We’ll do a personalized market evaluation**where we take a look at your individual property and give you an accurate estimate of what your home can sell for in the current market. This will help you make a better, more informed decision.
+Whether you’re thinking about buying, selling, downsizing, moving up, or retiring, give us a call or send us an email. **We’ll do a personalized market evaluation&nbsp;**where we take a look at your individual property and give you an accurate estimate of what your home can sell for in the current market. This will help you make a better, more informed decision.
 
 If you have any other questions in the meantime, don’t hesitate to reach out. We look forward to hearing from you soon!
