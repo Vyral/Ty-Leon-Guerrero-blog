@@ -16,7 +16,7 @@ youtube_code: Z1WfhVNVSMg
 
 {% include youtube.html %}
 
--Saturday April 1, 2017
+Saturday April 1, 2017 -&nbsp;
 
 As you can imagine, our market is moving really fast. We’ve been experiencing a really strong seller’s market since February.&nbsp;
 
