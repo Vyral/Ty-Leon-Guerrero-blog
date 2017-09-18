@@ -31,9 +31,9 @@ client:
   url: www.team1realty.com
   url2: wealsobuyhouses.com
   first_CTA_text: Home Evaluation
-  first_CTA_URL: 'http://www.team1realty.com/cma/property-valuation/'
+  first_CTA_URL: 'http://www.MyExactValue.com'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.team1realty.com/search/advanced_search/'
+  second_CTA_URL: 'http://www.team1realty.com'
   phone_CTA: true
   VR_form: 'http://oi.vresp.com?fid=9676bb12bc'
 welcome_headline: Get Educated About Real Estate
