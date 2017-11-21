@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ty-leon-guerrero-nov-1-screen-shot-no-play.jpg
-youtube_code: 'https://youtu.be/Ca91QHdaTMU'
+youtube_code: 'https://youtu.be/HlR8VGXrel4'
 ---
 
 
